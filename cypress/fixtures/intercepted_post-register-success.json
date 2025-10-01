@@ -124,5 +124,59 @@
       "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZGQ1NDg3YzUxZDZmNTkwNTNkZTQ4NyIsImlhdCI6MTc1OTMzNTU2MCwiZXhwIjoxNzU5MzM5MTYwfQ.eLciYjeYS29kxcrw-y00DLzifHGPV7QtvWxUM0fKVwQ"
     },
     "statusCode": 201
+  },
+  {
+    "url": "https://robot-lab.onrender.com/api/auth/register",
+    "method": "POST",
+    "requestBody": {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test76543210@emil.com",
+      "password": "test"
+    },
+    "responseBody": {
+      "_id": "68dd5498c51d6f59053de48a",
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test76543210@emil.com",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZGQ1NDk4YzUxZDZmNTkwNTNkZTQ4YSIsImlhdCI6MTc1OTMzNTU3NiwiZXhwIjoxNzU5MzM5MTc2fQ.9dyhzgWNlkmyp1n3py3iXdSaSuve_hnNlReoWua7hB8"
+    },
+    "statusCode": 201
+  },
+  {
+    "url": "https://robot-lab.onrender.com/api/auth/register",
+    "method": "POST",
+    "requestBody": {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test876543210@emil.com",
+      "password": "test"
+    },
+    "responseBody": {
+      "_id": "68dd54a8c51d6f59053de48d",
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test876543210@emil.com",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZGQ1NGE4YzUxZDZmNTkwNTNkZTQ4ZCIsImlhdCI6MTc1OTMzNTU5MywiZXhwIjoxNzU5MzM5MTkzfQ.u69D6z_B2H0MMaFufcZCmnBkpiWmRFNi4Vn_trGizlk"
+    },
+    "statusCode": 201
+  },
+  {
+    "url": "https://robot-lab.onrender.com/api/auth/register",
+    "method": "POST",
+    "requestBody": {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test9876543210@emil.com",
+      "password": "test"
+    },
+    "responseBody": {
+      "_id": "68dd54b9c51d6f59053de490",
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test9876543210@emil.com",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZGQ1NGI5YzUxZDZmNTkwNTNkZTQ5MCIsImlhdCI6MTc1OTMzNTYwOSwiZXhwIjoxNzU5MzM5MjA5fQ.FQP6_vENExY00K0WtMb2SfIEKupSJ127EuLfhV4c1PM"
+    },
+    "statusCode": 201
   }
 ]
