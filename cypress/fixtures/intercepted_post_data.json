@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://robot-lab.onrender.com/api/auth/login",
+    "method": "POST",
+    "requestBody": {
+      "email": "cy@ail.com",
+      "password": "cy"
+    },
+    "responseBody": {
+      "message": "Invalid email or password"
+    },
+    "statusCode": 401
+  }
+]

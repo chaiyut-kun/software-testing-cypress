@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://robot-lab.onrender.com/api/auth/register",
+    "method": "POST",
+    "requestBody": {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test@emil.com0",
+      "password": "test"
+    },
+    "responseBody": {
+      "message": "User already exists"
+    },
+    "statusCode": 400
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://robot-lab.onrender.com/api/auth/login",
+    "method": "POST",
+    "requestBody": {
+      "email": "cy@mail.com",
+      "password": "cy"
+    },
+    "responseBody": {
+      "_id": "68d637cfb90092a9c2d33589",
+      "firstName": "cy",
+      "lastName": "cy",
+      "email": "cy@mail.com",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDYzN2NmYjkwMDkyYTljMmQzMzU4OSIsImlhdCI6MTc1OTMwODgyMSwiZXhwIjoxNzU5MzEyNDIxfQ.E3Im368jzL6w7f4VCxbgZDj_A61HHrstRVp9jobuGhQ"
+    },
+    "statusCode": 200
+  }
+]

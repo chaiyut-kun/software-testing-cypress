@@ -1,0 +1,128 @@
+[
+  {
+    "url": "https://robot-lab.onrender.com/api/auth/register",
+    "method": "POST",
+    "requestBody": {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test0@emil.com",
+      "password": "test"
+    },
+    "responseBody": {
+      "_id": "68dd5429c51d6f59053de475",
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test0@emil.com",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZGQ1NDI5YzUxZDZmNTkwNTNkZTQ3NSIsImlhdCI6MTc1OTMzNTQ2NiwiZXhwIjoxNzU5MzM5MDY2fQ.o-IY5NxLq4Z-MS1d6pG6ImauGXwfH25VbYypJ4rulKQ"
+    },
+    "statusCode": 201
+  },
+  {
+    "url": "https://robot-lab.onrender.com/api/auth/register",
+    "method": "POST",
+    "requestBody": {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test10@emil.com",
+      "password": "test"
+    },
+    "responseBody": {
+      "_id": "68dd5439c51d6f59053de478",
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test10@emil.com",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZGQ1NDM5YzUxZDZmNTkwNTNkZTQ3OCIsImlhdCI6MTc1OTMzNTQ4MSwiZXhwIjoxNzU5MzM5MDgxfQ.0hEX_1T_YACTP4YaGNAOIDR3n4lqHWQMatcPjrAkTNo"
+    },
+    "statusCode": 201
+  },
+  {
+    "url": "https://robot-lab.onrender.com/api/auth/register",
+    "method": "POST",
+    "requestBody": {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test210@emil.com",
+      "password": "test"
+    },
+    "responseBody": {
+      "_id": "68dd5449c51d6f59053de47b",
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test210@emil.com",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZGQ1NDQ5YzUxZDZmNTkwNTNkZTQ3YiIsImlhdCI6MTc1OTMzNTQ5NywiZXhwIjoxNzU5MzM5MDk3fQ.ohbaBM7-M4jWLYB-eCH5hdF5K15cUGkGOKBV0N72tJs"
+    },
+    "statusCode": 201
+  },
+  {
+    "url": "https://robot-lab.onrender.com/api/auth/register",
+    "method": "POST",
+    "requestBody": {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test3210@emil.com",
+      "password": "test"
+    },
+    "responseBody": {
+      "_id": "68dd5458c51d6f59053de47e",
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test3210@emil.com",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZGQ1NDU4YzUxZDZmNTkwNTNkZTQ3ZSIsImlhdCI6MTc1OTMzNTUxMywiZXhwIjoxNzU5MzM5MTEzfQ.kO2pbLgPGHQyagZ7mAD0L_zrAlGIFEIDnJ2Qp0zOQt0"
+    },
+    "statusCode": 201
+  },
+  {
+    "url": "https://robot-lab.onrender.com/api/auth/register",
+    "method": "POST",
+    "requestBody": {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test43210@emil.com",
+      "password": "test"
+    },
+    "responseBody": {
+      "_id": "68dd5468c51d6f59053de481",
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test43210@emil.com",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZGQ1NDY4YzUxZDZmNTkwNTNkZTQ4MSIsImlhdCI6MTc1OTMzNTUyOCwiZXhwIjoxNzU5MzM5MTI4fQ.hx-jFQC_4HUeCqB3Gj4u6nlxjN4jn5ZgK-jBDEP6Pm4"
+    },
+    "statusCode": 201
+  },
+  {
+    "url": "https://robot-lab.onrender.com/api/auth/register",
+    "method": "POST",
+    "requestBody": {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test543210@emil.com",
+      "password": "test"
+    },
+    "responseBody": {
+      "_id": "68dd5477c51d6f59053de484",
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test543210@emil.com",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZGQ1NDc3YzUxZDZmNTkwNTNkZTQ4NCIsImlhdCI6MTc1OTMzNTU0NCwiZXhwIjoxNzU5MzM5MTQ0fQ.gfAVJg7FkZyDWZM8NHETM6LSukwYgMlT5gqtEkMjhPo"
+    },
+    "statusCode": 201
+  },
+  {
+    "url": "https://robot-lab.onrender.com/api/auth/register",
+    "method": "POST",
+    "requestBody": {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test6543210@emil.com",
+      "password": "test"
+    },
+    "responseBody": {
+      "_id": "68dd5487c51d6f59053de487",
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test6543210@emil.com",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZGQ1NDg3YzUxZDZmNTkwNTNkZTQ4NyIsImlhdCI6MTc1OTMzNTU2MCwiZXhwIjoxNzU5MzM5MTYwfQ.eLciYjeYS29kxcrw-y00DLzifHGPV7QtvWxUM0fKVwQ"
+    },
+    "statusCode": 201
+  }
+]
